@@ -1,0 +1,4 @@
+../User_modules/fonts_use/font_lcd.c:65:17:test_swicht	0	static
+../User_modules/fonts_use/font_lcd.c:109:17:p_c_get	0	static
+../User_modules/fonts_use/font_lcd.c:164:17:Get_image	0	static
+../User_modules/fonts_use/font_lcd.c:198:10:Get_image_humed	0	static

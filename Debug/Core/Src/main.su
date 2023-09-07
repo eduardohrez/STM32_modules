@@ -1,0 +1,10 @@
+../Core/Src/main.c:84:5:main	16	static
+../Core/Src/main.c:211:6:SystemClock_Config	88	static
+../Core/Src/main.c:258:13:MX_I2C2_Init	8	static
+../Core/Src/main.c:292:13:MX_SPI2_Init	8	static
+../Core/Src/main.c:330:13:MX_SPI3_Init	8	static
+../Core/Src/main.c:368:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:422:6:configure_SPI_LCD	16	static
+../Core/Src/main.c:439:13:configure_IF_Pixel_frmt	16	static
+../Core/Src/main.c:448:13:Set_flag_interrupt	16	static
+../Core/Src/main.c:459:6:Error_Handler	4	static,ignoring_inline_asm

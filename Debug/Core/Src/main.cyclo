@@ -1,0 +1,10 @@
+main.c:84:5:main	4
+main.c:211:6:SystemClock_Config	3
+main.c:258:13:MX_I2C2_Init	2
+main.c:292:13:MX_SPI2_Init	2
+main.c:330:13:MX_SPI3_Init	2
+main.c:368:13:MX_GPIO_Init	1
+main.c:422:6:configure_SPI_LCD	1
+main.c:439:13:configure_IF_Pixel_frmt	1
+main.c:448:13:Set_flag_interrupt	1
+main.c:459:6:Error_Handler	1

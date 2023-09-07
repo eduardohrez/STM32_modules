@@ -1,0 +1,17 @@
+LCD_ST7.c:38:6:SIG_RESET_LCD	1
+LCD_ST7.c:50:13:init_Pins	1
+LCD_ST7.c:65:6:init_LCD_S7	1
+LCD_ST7.c:81:6:Partial_Reset	1
+LCD_ST7.c:97:6:Domi_test	3
+LCD_ST7.c:123:6:Disp_Invers	1
+LCD_ST7.c:128:6:Set_brightness	1
+LCD_ST7.c:143:6:Set_X_Y	3
+LCD_ST7.c:167:6:Set_Etart_X_Y_End	5
+LCD_ST7.c:192:6:Set_All_LCD_RGB	1
+LCD_ST7.c:207:13:Mem_acces_crt	1
+LCD_ST7.c:220:13:Pixel_format	1
+LCD_ST7.c:236:13:RGB_Pix_Num	1
+LCD_ST7.c:248:13:RGB_1DAT_Pix_Num	1
+LCD_ST7.c:265:17:RGB_8b_to_5b_	1
+LCD_ST7.c:281:13:WR_IMAGE_type_JPG	2
+LCD_ST7.c:295:13:WR_IMAGE_type_PNG	3

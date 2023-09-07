@@ -1,0 +1,9 @@
+../User_modules/CRC7/crc7_soft.c:25:13:dummyfunct_crc7	24	static
+../User_modules/CRC7/crc7_soft.c:38:16:find_bit	24	static
+../User_modules/CRC7/crc7_soft.c:54:16:build_next_compar	24	static
+../User_modules/CRC7/crc7_soft.c:66:16:Process_crc	24	static
+../User_modules/CRC7/crc7_soft.c:79:17:calculate_size32	24	static
+../User_modules/CRC7/crc7_soft.c:93:13:build_uint32_compare_crc	32	static
+../User_modules/CRC7/crc7_soft.c:106:13:Set_False_flag_value	4	static
+../User_modules/CRC7/crc7_soft.c:110:17:buld_32	32	static
+../User_modules/CRC7/crc7_soft.c:164:16:get_crc	40	static

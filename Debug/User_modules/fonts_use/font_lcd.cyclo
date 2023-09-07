@@ -1,0 +1,4 @@
+font_lcd.c:65:17:test_swicht	14
+font_lcd.c:109:17:p_c_get	5
+font_lcd.c:164:17:Get_image	9
+font_lcd.c:198:10:Get_image_humed	9

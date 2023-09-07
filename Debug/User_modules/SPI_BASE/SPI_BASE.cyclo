@@ -1,0 +1,8 @@
+SPI_BASE.c:18:6:Init_SPI_BASE	2
+SPI_BASE.c:40:13:write_Comand	1
+SPI_BASE.c:52:6:write_Comands	1
+SPI_BASE.c:63:13:write_value_C_D	1
+SPI_BASE.c:78:6:Com_Value_rep	2
+SPI_BASE.c:99:13:Eneble_cont_wr_mode	1
+SPI_BASE.c:115:6:Contin_wr_pix	2
+SPI_BASE.c:125:13:Disable_cont_wr_mode	1
